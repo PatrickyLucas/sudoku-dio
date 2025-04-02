@@ -1,7 +1,7 @@
 # Sudoku - Java 
 
 ## 📜 Descrição
-Este projeto implementa um jogo de tabuleiro no estilo Sudoku, desenvolvido em Java, como parte de um desafio da **DIO - BRADESCO CLOUD NATIVE**. Ele fornece funcionalidades para criação e gerenciamento de jogos, permitindo que os jogadores insiram e removam valores, verifiquem erros e o status atual do jogo, e muito mais.
+Este projeto implementa um jogo de tabuleiro no estilo Sudoku, desenvolvido em Java, como parte de um desafio da **DIO - BRADESCO CLOUD NATIVE**. O jogo é exibido exclusivamente no terminal, sem interface gráfica, visando a aprendizagem de desenvolvimento _backend_ em Java. Ele fornece funcionalidades para criação e gerenciamento de jogos, permitindo que os jogadores insiram e removam valores, verifiquem erros e o status atual do jogo, e muito mais.
 
 ## ⚙️ Estrutura do Projeto
 O projeto está dividido em pacotes para facilitar o gerenciamento das responsabilidades:
